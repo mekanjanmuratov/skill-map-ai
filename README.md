@@ -1,1 +1,1 @@
-# skill-map-ai
+# Skill Map AI
